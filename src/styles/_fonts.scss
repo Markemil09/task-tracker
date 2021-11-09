@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "MavenPro";
+    src: url('../fonts/maven/MavenPro-Regular.ttf');
+  }
+@font-face {
+    font-family: "MavenPro";
+    src: url('../fonts/maven/MavenPro-Medium.ttf');
+    font-weight: 300;
+  }
+@font-face {
+    font-family: "MavenPro";
+    src: url('../fonts/maven/MavenPro-Bold.ttf');
+    font-weight: 700;
+  }
+
+$maven: MavenPro, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

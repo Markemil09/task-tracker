@@ -1,0 +1,45 @@
+@import "../../styles/fonts";
+
+
+.body-container{
+    color: #ffff;
+
+    .add-task-button{
+        background-color: #9BFFB7;
+        color: #172747;
+        font-size: 30px;
+        height: 55px;
+        width: 55px;
+    }
+
+    .add-button{
+        background-color: #264178;
+        color: #ffff;
+        border-radius: 10px;
+        border-color: #264178;
+        font-family: MavenPro;
+        font-weight: 700;
+        font-size: 30px;
+        margin-left: 900px;
+        margin-top: 50px;
+        margin-bottom: 0;
+        height: auto;
+
+
+    }
+    .add-task{
+        font-family: MavenPro;
+        font-weight: 300;
+        font-size: 20px;
+        background-color: #172747;
+        width: 60vw;
+        height: auto;
+        margin: auto;
+        color: white;
+
+        .add-task-form{
+            color: white;
+        }
+
+    }
+}

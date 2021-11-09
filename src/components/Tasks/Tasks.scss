@@ -1,0 +1,27 @@
+@import "../../styles/fonts";
+
+.tasks-body{
+  color: #ffff;
+  height: 80vh;
+  background-color: #172747;
+  margin-top: 150px;
+  font-family: MavenPro;
+  font-weight: 700;
+  font-size: 30px;
+  .task-sched{
+    font-family: MavenPro;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+  }
+  .delete-button{
+    background-color: #0F1B33 ;
+    border-color: #0F1B33;
+    border-style: none;
+    cursor: pointer;
+    right: 680px;
+    position: absolute;
+    
+  }
+}
